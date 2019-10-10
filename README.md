@@ -1,8 +1,11 @@
 # Flukeless
 
 Authors: 
+
 Alex Porter
+
 Canyon Shapiro
+
 Dan Parr
 
 Description: Port Scanner that allows you to find your IP address, Switch Name, Switch IP address, and VLAN
@@ -18,6 +21,7 @@ The application is a WPF form with a PowerShell back end, click the start button
 
 
 === Version 2.0 ===
+- Added full GUI for operation
 - Updated and added code to increase clarity
 - Added dependancy check and npcap custom installation
 - Added the ability to change the default TShark directory
